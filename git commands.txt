@@ -1,0 +1,44 @@
+git init // initialise local repo
+git add <file> // add files to index
+git rm --cached <file> // *.ext and . for all
+git status // status of staging are versus remote repo
+git commit // commit changes in index
+git commit -m 'with your message to explain changes ' // instead of going through vim or notepad ++
+
+flags on commit
+
+remote repo
+
+git push // push to remote repo
+git pull // latest version from repo
+git close // will clone repo into new directoy
+
+git branch branchname // create new branch
+git checkout master // or branch name
+
+git remote // list of remote repos
+git remote add origin // connect to a remote repo and call it origin
+
+git push -u origin master //
+
+Clone a repo:
+get link from github
+make new folder 
+open bash from folder
+git clone <link>
+
+
+vim
+i for insert
+make changes
+esc (out of insert mode)
+:wq
+
+
+
+From start:
+
+go to https://stash.murex.com/projects/FOX/repos/upl/browse for repo
+go to d:\onedrive - murex\documents\upl\upl     for working directory
+
+
